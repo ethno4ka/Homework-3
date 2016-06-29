@@ -1,0 +1,137 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  background: #f9f9f9;
+  }
+
+.logo {
+  margin: 50px 0 35px 46px;
+}
+
+.wrapper {
+  width: 1060px;
+  margin: 0 auto;
+  background: #fff;  
+}
+
+.menu {
+  width: 966px;
+  height: 40px; 
+  margin: 0 auto;
+  background: url(../img/Menu.jpg) no-repeat;
+}
+
+li {
+    list-style-type: none;
+}
+
+.menu ul {
+  padding-left: 25px;
+  padding-top: 14px;
+}
+
+.menu ul li {
+  float: left;
+  font: 12px Open Sans, Verdana, Tahoma, sans-serif; 
+  margin-right: 87px;
+}
+
+.menu ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #2d2d2d;
+}
+
+.menu ul li a:hover {
+  width: 101px;
+  height: 40px;
+  background: url(../img/Hover.jpg) no-repeat;
+  padding: 14px 24px 20px 24px; 
+}
+
+.shadow {   
+  box-shadow: 0 0 8px #d9d9d9;
+  padding: 10px;
+}
+
+.menu_v {
+  float: left;
+  padding-left: 46px;
+  padding-top: 40px;
+}
+
+.menu_v div {
+  width: 217px;
+  height: 24px;
+  border: 1px solid #c8c8c8;
+}
+
+.menu_v div a {
+  color: #656363;
+  text-decoration: none;
+  font: 12px Open Sans, Verdana, Tahoma, sans-serif; 
+}
+
+.menu_v div {
+  padding-left: 23px;
+  padding-top: 12px;
+  padding-bottom: 4px;
+}
+
+.menu_v div:hover {
+  background: #f9f9f9;
+}
+
+ p {
+   font: 12px Open Sans, Verdana, Tahoma, sans-serif;
+   text-align: justify;
+   width: 618px;
+   height: 118px;
+   padding-top: 40px;
+   padding-right: 80px; 
+   padding-bottom: 85px;  
+   padding-left: 365px;
+}
+
+.bike {
+  width: 678px;
+  height: 400px;
+  padding-left: 46px;
+  padding-top: 40px;
+}
+
+.menu_f {
+  width: 966px;
+  height: 40px; 
+  margin: 0px auto;
+  padding-bottom: 60px;
+  background: url(../img/Footer.jpg) no-repeat;
+  }
+
+.menu_f ul {
+  padding-left: 25px;
+  padding-top: 14px;
+}
+
+.menu_f ul li {
+  float: left;
+  font: 12px Open Sans, Verdana, Tahoma, sans-serif; 
+  margin-right: 87px;
+}
+
+.menu_f ul li a {
+  color: #2c2c2c;
+  text-decoration: none;
+}
+
+.menu_f ul li a:hover {
+  text-decoration: underline;
+}
+
+ #copyright {
+  float: right;
+  margin-right: 25px; 
+}
